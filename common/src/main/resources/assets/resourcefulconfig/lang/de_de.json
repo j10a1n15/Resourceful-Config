@@ -1,39 +1,39 @@
 {
-    "rconfig.server.title": "Dedicated Server",
-    "rconfig.server.desc": "Properties that can be can update real-time.",
+    "rconfig.server.title": "Dedizierter Server",
+    "rconfig.server.desc": "Eigenschaften, die sich in Echtzeit aktualisieren.",
     "rconfig.server.wiki": "Wiki",
 
-    "rconfig.server.properties.white-list": "White List",
-    "rconfig.server.properties.white-list.desc": "If this is enabled, only the users in the white list can access the server.",
+    "rconfig.server.properties.white-list": "Gästeliste",
+    "rconfig.server.properties.white-list.desc": "Wenn diese Option aktiviert ist, können nur die in der Gästeliste stehende Spieler auf den Server beitreten.",
 
-    "rconfig.server.properties.max-players": "Max Players",
-    "rconfig.server.properties.max-players.desc": "The maximum number of players that can play on the server at the same time.",
+    "rconfig.server.properties.max-players": "Maximale Spieler",
+    "rconfig.server.properties.max-players.desc": "Die maximale Anzahl an Spielern, die gleichzeitig auf dem Server spielen können.",
 
-    "rconfig.server.properties.motd": "Message of the Day",
-    "rconfig.server.properties.motd.desc": "The message that is displayed in the server list.",
+    "rconfig.server.properties.motd": "Nachricht des Tages",
+    "rconfig.server.properties.motd.desc": "Die Nachricht, die in der Server Liste steht.",
 
-    "rconfig.server.properties.allow-flight": "Allow Flight",
-    "rconfig.server.properties.allow-flight.desc": "If this is enabled, players are allowed to fly in the server, usually needed in a modded server.",
+    "rconfig.server.properties.allow-flight": "Fliegen Erlauben",
+    "rconfig.server.properties.allow-flight.desc": "Wenn diese Option aktiviert ist, dürfen Spieler auf dem Server fliegen, was normalerweise auf einem modifizierten Server gebraucht ist.",
 
-    "rconfig.server.properties.pvp": "Player vs Player",
-    "rconfig.server.properties.pvp.desc": "If this is enabled, players can attack each other.",
+    "rconfig.server.properties.pvp": "Spieler gegen Spieler",
+    "rconfig.server.properties.pvp.desc": "Wenn diese Option aktiviert ist, können Spieler sich gegenseitig angreifen.",
 
-    "rconfig.server.properties.enforce-whitelist": "Enforce White List",
-    "rconfig.server.properties.enforce-whitelist.desc": "If this is enabled, only the users in the white list can access the server, if users are on the server that are not in the whitelist they will be kicked.",
+    "rconfig.server.properties.enforce-whitelist": "Erzwingte Gästeliste",
+    "rconfig.server.properties.enforce-whitelist.desc": "Wenn dies aktiviert ist, können nur die Spieler in der Gästeliste auf den Server zugreifen. Wenn Benutzer auf dem Server sind, die nicht in der Gästeliste sind, werden sie gekickt.",
 
-    "rconfig.ui.constant.close": "Close",
-    "rconfig.ui.constant.reset": "Reset",
-    "rconfig.ui.constant.edit": "Edit",
-    "rconfig.ui.constant.edit.string": "Edit String",
-    "rconfig.ui.constant.edit.list": "Edit List",
-    "rconfig.ui.constant.edit.object": "Edit Object",
-    "rconfig.ui.constant.choose_item": "Choose Item: ",
-    "rconfig.ui.constant.add_item": "Add Item: ",
-    "rconfig.ui.constant.mod_configs": "Mod Configs",
-    "rconfig.ui.constant.mod_configs.description": "Select a config to view or edit.",
+    "rconfig.ui.constant.close": "Schließen",
+    "rconfig.ui.constant.reset": "Zurücksetzten",
+    "rconfig.ui.constant.edit": "Editieren",
+    "rconfig.ui.constant.edit.string": "Text Editieren",
+    "rconfig.ui.constant.edit.list": "Liste Editieren",
+    "rconfig.ui.constant.edit.object": "Objekt Editieren",
+    "rconfig.ui.constant.choose_item": "Element auswählen: ",
+    "rconfig.ui.constant.add_item": "Element hinzufügen: ",
+    "rconfig.ui.constant.mod_configs": "Mod Konfiguration",
+    "rconfig.ui.constant.mod_configs.description": "Wähle eine Konfiguration zum Anzeigen oder Bearbeiten.",
 
 
-    "rconfig.color.preset.defaults": "Defaults",
-    "rconfig.color.preset.recents": "Recents",
-    "rconfig.color.preset.mc_colors": "Text Colors"
+    "rconfig.color.preset.defaults": "Standardeinstellungen",
+    "rconfig.color.preset.recents": "Zuletzt",
+    "rconfig.color.preset.mc_colors": "Text Farben"
 }
